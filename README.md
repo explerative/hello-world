@@ -1,5 +1,5 @@
 # hello-world
-test-repository
+test-repo
 Test
 : testfield without worrying to mess something up
 
@@ -8,7 +8,9 @@ Test
 | Header | Testing |
 | Paragraph | Test | 
 
- 	```
+ok
+
+```
 {
   "firstName": "John",
   "lastName": "Smith",
