@@ -18,7 +18,11 @@ ok
 }
 ```
 
+'pip install -r requirements.txt'
+
 H~2~O
+H<sub>2</sub>O
+H<sub>2</sub>O
 x^2^
 
 > what
